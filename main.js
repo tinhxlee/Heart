@@ -10,6 +10,7 @@ var settings = {
     size: 30, // particle size in pixels
   },
 };
+
 /*
  * RequestAnimationFrame polyfill by Erik Möller
  */
